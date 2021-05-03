@@ -11,10 +11,13 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 
 | Name | Holding | 
 |---|---|
-| Bitcoin (BTC) | 0.00047974 | 
+| Bitcoin (BTC) | 0.00226975 | 
 | Ether (ETH) | 0.036926072447997 | 
-| Litecin (LTC) | 0.052 | 
-| Bitcoin Cash (BCH) | 0.00010552 | 
+| Ethereum Classic (ETC) | 0.13 | 
+| Litecoin (LTC) | 0.052 | 
+| Bitcoin Cash (BCH) | 0.00740552 | 
+| Yearn Finance (YFI) | 0.000465 |
+| DFI.Money (YFII) | 0.009476 |
 | EOS (EOS) | 1 |
 | Monero (XMR) | 0.007 |
 | Dogecoin (DOGE) | 10 |
@@ -22,21 +25,24 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | Zilliqa (ZIL) | 10 |
 | Ripple (XRP) | 1 |
 | Stellar (XLM) | 1.3 |
+| Cardano (ADA) | 4.5 |
 | Hashgraph (HBAR) | 2 |
 | IOTA (IOTA) | 0.11 |
-| Tron (TRX) | 0.40392| 
+| Tron (TRX) | 199.40392| 
 | Binance Smart Chain (BSC) | 0.02672649 |
 | Matic (MATIC) | 2.0706 |
+| Polkadot (DOT) | 0.18 |
 | Filecoin (FIL) | 0.06 |
-| Basic Attention Token (BAT) | 1.018 |
-| PUSH (PUSH) | 1 |
+| Basic Attention Token (BAT) | 1.475 |
+| PUSH (PUSH) | 17.26 |
 | Presearch (PRE) | 35.08 | 
+| Uniswap (UNI) | 0.12 | 
 | UMA (UMA) | 0.244 |
 | 0x (ZRX) | 1.5 |
-| WazirX (WRX) | 4.7053967 |
+| WazirX (WRX) | 4.6014117 |
 | Metal (MTL)| 0.44 |
 | BitTorrent (BTT) | 232 |
-| USD Tether (USDT) | 1.599589 |
+| USD Tether (USDT) | 1.601786 |
 | DENT (DENT) | 75 |
 | Wink (WIN) | 463 | 
 | QUICK (QUICK) | 0.005 |
