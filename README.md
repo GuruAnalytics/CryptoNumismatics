@@ -1,6 +1,6 @@
 # CryptoNumismatics
 
-**CryptoNumismatics** is the scientific study and/or collection of Cryptocurrencies and Cryptotokens. I am not even sure whether the term is defined already, but being a Numismatist for the past 18 years and currently working in Cryptocurreny & Blockchain Technology, I always thought this. Recently started collecting (trading), so thought to share through github. 
+**CryptoNumismatics** is the scientific study and/or collection of Cryptocurrencies and Cryptotokens. I am not even sure whether the term is defined already, but being a Numismatist for the past 18 years and currently working in Cryptocurreny & Blockchain Technology, I always thought about this. Recently, during the pandemic (2021) started collecting (trading), so happy to share this through github. 
 
 This can be very well considered as the branch of **Numismatics**. 
 
@@ -11,21 +11,21 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 
 | Name | Holding | 
 |---|---|
-| Bitcoin (BTC) | 0.00228982 | 
+| Bitcoin (BTC) | 0.00230026 | 
 | Bitcoin Cash (BCH) | 0.00196836 | 
 | Bitcoin Cash SV (BCHSV) | 0.006 | 
 | Bitcoin Gold (BTG) | 0.1 | 
-| Ether (ETH) | 0.130426072447997 | 
+| Ether (ETH) | 0.268658462447997237 | 
 | Ethereum Classic (ETC) | 0.07 | 
 | Litecoin (LTC) | 0.05233292 | 
-| Yearn Finance (YFI) | 0.000465 |
+| Yearn Finance (YFI) | 0.000415 |
 | DFI.Money (YFII) | 0.009476 |
 | Tron (TRX) | 103.40392 | 
 | Binance Smart Chain (BSC) | 0.02672649 |
 | Monero (XMR) | 0.007 |
 | Dogecoin (DOGE) | 47 |
 | Filecoin (FIL) | 0.109 |
-| Basic Attention Token (BAT) | 2.130 |
+| Basic Attention Token (BAT) | 2 |
 | Matic (MATIC) | 1.0706 |
 | Polkadot (DOT) | 0.18 |
 | EOS (EOS) | 1 |
@@ -75,26 +75,36 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | SushiSwap (SUSHI) | 0.126 |
 | UMA (UMA) | 0.244 |
 | 0x Protocol (ZRX) | 1.5 |
-| WazirX (WRX) | 4.41384227 |
+| WazirX (WRX) | 4.42579401 |
 | Metal (MTL)| 0.44 |
 | Holo (HOT) | 438 | 
 | BitTorrent (BTT) | 232 |
-| USD Tether (USDT) | 14.320936 |
+| USD Tether (USDT) | 0.071235 |
+| Cartesi (CTSI) | 3 | 
+| Loopring (LRC) | 4 |
+| Golem (GLM) | 5 |
+| Cream Finance (CREAM) | 0.017 |
+| Maker (MKR) | 0.00038 | 
+| Polymath (POLY) | 5 |
+| Pundi X (PUNDIX) | 0.73 |
+| Status Network (SNT) | 10 |
+| BitShares (BTS) | 15 |
+| 1inch (1INCH) | 0.19 |
+| PancakeSwap (CAKE) | 0.049 | 
 | DENT (DENT) | 75 |
 | Wink (WIN) | 463 | 
 | QUICK (QUICK) | 0.005 |
 | GFARM2 (GFARM2) | 0.002 |
-| Pi (π) | 233.2544 |
+| Pi (π) | 295.1744 |
 
 ## CryptoAsset
 
 | Name | Holding | 
 |---|---|
 | CryptoKitties (CK) | 0 | 
-| Upland (UPX) | 7219 |
+| Upland (UPX) | 8011 |
 | Marble Cards (MBC) | 0 | 
 | MegaCryptoPolis 3D (MCPC) | 1 - Citizen Token |
-
 
 
 ## Resources 
