@@ -1,6 +1,6 @@
 # CryptoNumismatics
 
-**CryptoNumismatics** is the scientific study and/or collection of Cryptocurrencies and Cryptotokens. I am not even sure whether the term is defined already, but being a Numismatist for the past 18 years and currently working in Cryptocurreny & Blockchain Technology, I always thought about this. Recently, during the pandemic (2021) started collecting (trading), so happy to share this through github. 
+**CryptoNumismatics** is the scientific study and/or collection of Cryptocurrencies and Cryptotokens. I am not even sure whether the term is defined already, but being a Numismatist for the past 18 years and currently working in Cryptocurreny & Blockchain Technology, I always thought about this. Recently, during the pandemic (2021) started collecting Cryptocurrencies and Cryptotokens, so happy to share this through Github. 
 
 This can be very well considered as the branch of **Numismatics**. 
 
@@ -11,13 +11,13 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 
 | Name | Holding | 
 |---|---|
-| Bitcoin (BTC) | 0.00230026 | 
+| Bitcoin (BTC) | 0.00232037 | 
 | Bitcoin Cash (BCH) | 0.00196836 | 
 | Bitcoin Cash SV (BCHSV) | 0.006 | 
 | Bitcoin Gold (BTG) | 0.1 | 
 | Ether (ETH) | 0.268658462447997237 | 
 | Ethereum Classic (ETC) | 0.07 | 
-| Litecoin (LTC) | 0.05233292 | 
+| Litecoin (LTC) | 0.05406821 | 
 | Yearn Finance (YFI) | 0.000415 |
 | DFI.Money (YFII) | 0.009476 |
 | Tron (TRX) | 103.40392 | 
@@ -95,7 +95,10 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | Wink (WIN) | 463 | 
 | QUICK (QUICK) | 0.005 |
 | GFARM2 (GFARM2) | 0.002 |
-| Pi (π) | 295.1744 |
+| Ampleforth (AMPL) | 0.00522382 |
+| IFARM (IFARM) | 0.00006972 |
+| SOUL (SOUL) | 198.97 | 
+| Pi (π) | 950.8044 |
 
 ## CryptoAsset
 
