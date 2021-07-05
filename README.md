@@ -11,13 +11,13 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 
 | Name | Holding | 
 |---|---|
-| Bitcoin (BTC) | 0.00232037 | 
+| Bitcoin (BTC) | 0.00234162 | 
 | Bitcoin Cash (BCH) | 0.00196836 | 
 | Bitcoin Cash SV (BCHSV) | 0.006 | 
 | Bitcoin Gold (BTG) | 0.1 | 
 | Ether (ETH) | 0.268658462447997237 | 
 | Ethereum Classic (ETC) | 0.07 | 
-| Litecoin (LTC) | 0.05406821 | 
+| Litecoin (LTC) | 0.05436046 | 
 | Yearn Finance (YFI) | 0.000415 |
 | DFI.Money (YFII) | 0.009476 |
 | Tron (TRX) | 103.40392 | 
@@ -95,10 +95,10 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | Wink (WIN) | 463 | 
 | QUICK (QUICK) | 0.005 |
 | GFARM2 (GFARM2) | 0.002 |
-| Ampleforth (AMPL) | 0.00522382 |
-| IFARM (IFARM) | 0.00006972 |
-| SOUL (SOUL) | 198.97 | 
-| Pi (π) | 950.8044 |
+| Ampleforth (AMPL) | 0.0075 |
+| IFARM (IFARM) | 0.0001207 |
+| SOUL (SOUL) | 935 | 
+| Pi (π) | 1135.4580 |
 
 ## CryptoAsset
 
