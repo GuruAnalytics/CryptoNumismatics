@@ -12,10 +12,10 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | Name | Holding | 
 |---|---|
 | Bitcoin (BTC) | 0.00234182 | 
-| Bitcoin Cash (BCH) | 0.0018 +  0.00196836 | 
+| Bitcoin Cash (BCH) | 0.00196836 | 
 | Bitcoin Cash SV (BCHSV) | 0.006 | 
 | Bitcoin Gold (BTG) | 0.1 | 
-| Ether (ETH) | 0.145158462447997237 0.268658462447997237 | 
+| Ether (ETH) | 0.145158462447997237 | 
 | Ethereum Classic (ETC) | 0.07 | 
 | Litecoin (LTC) | 0.05457004 | 
 | Yearn Finance (YFI) | 0.000415 |
