@@ -11,21 +11,21 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 
 | Name | Holding | 
 |---|---|
-| Bitcoin (BTC) | 0.00234162 | 
-| Bitcoin Cash (BCH) | 0.00196836 | 
+| Bitcoin (BTC) | 0.00234182 | 
+| Bitcoin Cash (BCH) | 0.0018 +  0.00196836 | 
 | Bitcoin Cash SV (BCHSV) | 0.006 | 
 | Bitcoin Gold (BTG) | 0.1 | 
-| Ether (ETH) | 0.268658462447997237 | 
+| Ether (ETH) | 0.145158462447997237 0.268658462447997237 | 
 | Ethereum Classic (ETC) | 0.07 | 
-| Litecoin (LTC) | 0.05436046 | 
+| Litecoin (LTC) | 0.05457004 | 
 | Yearn Finance (YFI) | 0.000415 |
 | DFI.Money (YFII) | 0.009476 |
-| Tron (TRX) | 103.40392 | 
-| Binance Smart Chain (BSC) | 0.02672649 |
+| Tron (TRX) | 53.40392 | 
+| Binance Coin (BNB) | 0.02672649 |
 | Monero (XMR) | 0.007 |
 | Dogecoin (DOGE) | 47 |
 | Filecoin (FIL) | 0.109 |
-| Basic Attention Token (BAT) | 2 |
+| Basic Attention Token (BAT) | 2.9750 |
 | Matic (MATIC) | 1.0706 |
 | Polkadot (DOT) | 0.18 |
 | EOS (EOS) | 1 |
@@ -75,7 +75,7 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | SushiSwap (SUSHI) | 0.126 |
 | UMA (UMA) | 0.244 |
 | 0x Protocol (ZRX) | 1.5 |
-| WazirX (WRX) | 4.42579401 |
+| WazirX (WRX) | 5.78755962 |
 | Metal (MTL)| 0.44 |
 | Holo (HOT) | 438 | 
 | BitTorrent (BTT) | 232 |
@@ -96,16 +96,23 @@ The CryptoCurrencies and CryptoAssets held by @RamaguruRadhakrishnan are listed 
 | QUICK (QUICK) | 0.005 |
 | GFARM2 (GFARM2) | 0.002 |
 | Ampleforth (AMPL) | 0.0075 |
-| IFARM (IFARM) | 0.0001207 |
-| SOUL (SOUL) | 935 | 
-| Pi (π) | 1135.4580 |
+| IFARM (IFARM) | 0.0001283 |
+| Realis (LIS) | 133 | 
+| Pi (π) | 1563.7661 |
+| SHIB (SHIBA INU) | 803782 |
+| bZx Protocol (BZRX) | 3.74 |
+| Elrond Gold (EGLD) | 0.009 |
+| Tellor (TRB) | 0.021 |
+| Keep Network (KEEP) | 3 |
+| Internet Computer (ICP) | 0.01 | 
+
 
 ## CryptoAsset
 
 | Name | Holding | 
 |---|---|
 | CryptoKitties (CK) | 0 | 
-| Upland (UPX) | 8011 |
+| Upland (UPX) | 8156 |
 | Marble Cards (MBC) | 0 | 
 | MegaCryptoPolis 3D (MCPC) | 1 - Citizen Token |
 
